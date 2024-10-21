@@ -1,0 +1,76 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+.Titulo{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 90px;
+}
+
+.Titulo2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(50, 108, 175); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+}
+
+.Departamento1{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.Departamento2{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.Departamento3{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.Departamento4{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.Departamento5{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
