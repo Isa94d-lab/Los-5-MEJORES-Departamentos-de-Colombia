@@ -1,7 +1,7 @@
 body {
     display: grid;
     place-items: center;
-    height: 100vh;
+    /* height: 100vh; */
 }
 .Titulo{
     text-align: center;
@@ -11,7 +11,7 @@ body {
     max-width: 50%;
     border: 2px rgb(48, 114, 177);
     border-radius: 10px;
-    margin: 90px;
+    margin: 50px;
     font-size: 30px;
 }
 
@@ -70,6 +70,30 @@ body {
     color: rgb(253, 253, 240);
     padding: 15px;
     background-color: rgb(233, 197, 37); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* PAGINAS ADICIONALES */
+
+/*-------- BOLIVAR --------*/
+.TituloBolivar{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.InfoBolivar {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding: 15px;
+    background-color: #F2DBAE; 
     max-width: 50%;
     border: 2px rgb(48, 114, 177);
     border-radius: 10px;
