@@ -1,8 +1,15 @@
-body {
+.Todo {
     display: grid;
     place-items: center;
     /* height: 100vh; */
 }
+
+.Todo2 {
+    display: grid;
+    place-items: center;
+    /* height: 100vh; */
+}
+
 .Titulo{
     text-align: center;
     color: rgb(253, 253, 240);
@@ -76,13 +83,32 @@ body {
     margin: 20px;
 }
 
+.VOLVER {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
 /* PAGINAS ADICIONALES */
 
 /*-------- BOLIVAR --------*/
 .TituloBolivar{
     text-align: center;
     color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
     padding: 15px;
+    */
     background-color: #F2DBAE; 
     max-width: 50%;
     border: 2px rgb(48, 114, 177);
@@ -92,10 +118,203 @@ body {
 .InfoBolivar {
     text-align: center;
     color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-size: 25px;
+    /*
     padding: 15px;
+    */
     background-color: #F2DBAE; 
     max-width: 50%;
     border: 2px rgb(48, 114, 177);
     border-radius: 10px;
     margin: 20px;
 }
+.ImagenBolivar {
+    text-align: right;
+}
+
+.Caracteristica1 {
+    display: grid;
+    place-items: center;
+    
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 25px;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.EconomiaBolivar {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/*-------- ANTIOQUIA --------*/
+
+.TituloAntioquia{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.InfoAntioquia {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-size: 25px;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.ImagenAntioquia {
+    text-align: right;
+}
+
+.Caracteristica2 {
+    display: grid;
+    place-items: center;
+    
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 25px;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.EconomiaAntioquia {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/*-------- BOYACA --------*/
+
+.TituloBoyaca{
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.InfoBoyaca {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-size: 25px;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+.ImagenBoyaca {
+    text-align: right;
+}
+
+.Caracteristica3 {
+    display: grid;
+    place-items: center;
+    
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 25px;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.EconomiaBoyaca {
+    text-align: center;
+    color: rgb(253, 253, 240);
+    padding-left: 20%;
+    padding-right: 20%;
+    /*
+    padding: 15px;
+    */
+    background-color: #F2DBAE; 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 20px;
+}
+
