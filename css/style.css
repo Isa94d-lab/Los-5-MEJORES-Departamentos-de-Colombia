@@ -1,3 +1,4 @@
+/* Estos 2 Todo los use para que se centrara todo lo que estubiera adentro */
 .Todo {
     display: grid;
     place-items: center;
@@ -10,6 +11,15 @@
     /* height: 100vh; */
 }
 
+/* Gracias al div, pedo hacer esto y añadirle las propiedades que yo prefiera, aque estoy diciendo que: 
+-Me centre el texto
+-El texto sea de color blanco
+-El relleno sea de 15px
+-El color de fondo sea amarillo
+-El borde sea de 2px y sea azul
+-la curvatura del borde
+-El margen sea de 50px
+-El tamaño de la letra sea de 30px*/
 .Titulo{
     text-align: center;
     color: rgb(253, 253, 240);
